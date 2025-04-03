@@ -1,0 +1,13 @@
+{
+    "MiddleWing": {
+      "label": "Drawer Handle",
+      "material": "Polished Steel",
+      "description": "Use this to open the drawer smoothly."
+    },
+    "DrawerRight": {
+      "label": "Backrest",
+      "material": "Padded Foam",
+      "description": "Provides lumbar support with tilt action."
+    }
+  }
+  
